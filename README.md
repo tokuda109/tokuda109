@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![tokuda109's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokuda109&theme=tokyonight)
-![tokuda109's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tokuda109&theme=tokyonight)
